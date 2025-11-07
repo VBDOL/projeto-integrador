@@ -1,5 +1,4 @@
-# Projeto Integrador - Refatorado
-
+# FACULDADE GRAN (https://faculdade.grancursosonline.com.br/) Projeto Disciplina Projeto Integrador
 Este repositório contém duas pastas: `backend` (API Node.js + SQLite) e `frontend` (React).
 
 Instruções rápidas:
